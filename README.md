@@ -1,4 +1,4 @@
-# Reactapp-firstComponentApp
+# Reactapp1-ComponentApp
 
 A React file has more than 30 components, all of these component files are stored in component folder including "App.js" file and except "index.js" file
 
